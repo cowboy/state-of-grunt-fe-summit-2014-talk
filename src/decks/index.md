@@ -237,39 +237,6 @@ class: orange
 ]]
 
 ---
-class:
-.footer[The State of Grunt - Grunt Today]
-
-# Grunt vs the Alternatives
-
---
-### Grunt - _&ldquo;The JavaScript Task Runner&rdquo;_
-
-Grunt wants to help you automate repetetive tasks via declarative configuration.
-
---
-### Gulp - _&ldquo;The streaming build system&rdquo;_
-
-Gulp wants to help you build your project efficiently using streams.
-
---
-### Broccoli - _&ldquo;Fast client-side asset builder&rdquo;_
-
-Broccoli wants to help you build large projects with many files, fast.
-
----
-class:
-.footer[The State of Grunt - Grunt Today]
-
-# Grunt vs the Alternatives
-
-### Grunt - _&ldquo;The JavaScript Task Runner&rdquo;_
-### Gulp - _&ldquo;The streaming build system&rdquo;_
-### Broccoli - _&ldquo;Fast client-side asset builder&rdquo;_
-
-## They're actually all good options. As long as you're using SOMETHING, you're ahead of the game.
-
----
 class: center, middle, orange
 .footer[The State of Grunt]
 
@@ -343,6 +310,39 @@ class: center, middle
 
 ---
 class:
+.footer[The State of Grunt - Final Thoughts]
+
+# Grunt vs the Alternatives
+
+--
+### Grunt - _&ldquo;The JavaScript Task Runner&rdquo;_
+
+Grunt wants to help you automate repetitive tasks via declarative configuration.
+
+--
+### Gulp - _&ldquo;The streaming build system&rdquo;_
+
+Gulp wants to help you build your project efficiently using streams.
+
+--
+### Broccoli - _&ldquo;Fast client-side asset builder&rdquo;_
+
+Broccoli wants to help you build large projects with many files, fast.
+
+---
+class:
+.footer[The State of Grunt - Final Thoughts]
+
+# Grunt vs the Alternatives
+
+### Grunt - _&ldquo;The JavaScript Task Runner&rdquo;_
+### Gulp - _&ldquo;The streaming build system&rdquo;_
+### Broccoli - _&ldquo;Fast client-side asset builder&rdquo;_
+
+> They're actually all good options. As long as you're using SOMETHING, you're ahead of the game.
+
+---
+class: orange
 .footer[The State of Grunt - Final Thoughts]
 
 # How Can You Help?
