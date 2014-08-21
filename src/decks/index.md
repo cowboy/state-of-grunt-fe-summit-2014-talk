@@ -60,7 +60,7 @@ class: orange
 * To build very small to immensely gigantic projects
 
 --
-* To deply code to production
+* To deploy code to production
 
 --
 * To run development web servers
@@ -182,7 +182,7 @@ class: brown
 
 --
 .smaller[.smaller[
-* Grunt has become the &ldquo;gateway&rdquo; for non-developers and reluctant developers to Node, JavaScript and process automation
+* It's the &ldquo;gateway&rdquo; for non-developers and reluctant developers to Node, JavaScript and process automation
 ]]
 --
 .smaller[.smaller[
@@ -365,6 +365,8 @@ class:
 ]
 
 ---
+.footer[The State of Grunt]
+
 # Talk To Us
 
 .smaller[
