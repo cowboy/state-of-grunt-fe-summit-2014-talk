@@ -1,0 +1,13 @@
+doctype html
+html(lang='en')
+  head
+    title!= title
+    meta(http-equiv="Content-Type", content="text/html; charset=UTF-8")
+    link(rel="stylesheet", href="deck.css")
+  body
+    textarea#source!= content
+    if grunt.task.current.target === 'dev'
+      script(src="http://localhost:35729/livereload.js")
+      base(href="../src/")
+    script(src="vendor/remark.js")
+    script(src="scripts/deck.js")

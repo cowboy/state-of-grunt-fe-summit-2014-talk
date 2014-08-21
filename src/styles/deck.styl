@@ -1,0 +1,83 @@
+@import "nib"
+
+body
+  font-family "Helvetica Neue", Helvetica, Arial, sans-serif
+  color #453015
+*
+  font-family "Lato", sans-serif
+pre, code, code *
+  text-shadow none
+  font-family "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace
+code
+  background-color #F0F0F0
+  color #800
+h1 code, h2 code, h3 code, p code, li code
+  font-size 0.9em
+  padding 0 0.2em
+h1
+  font-size 4em
+h2
+  font-size 2.5em
+ul
+  font-size 2.5em
+ol
+  font-size 1.2em
+li
+  margin-bottom 0.4em
+a
+  color #E48632
+  &:hover
+    color #0a0
+img
+  max-width 780px
+
+.orange
+  background #E48632
+  color #fff
+  text-shadow 0 0 20px #555
+
+// http://codepo8.github.io/CSS3-Rainbow-Dividers/
+.omg
+  color #fff
+  text-shadow 0 0 20px #333
+  background-image linear-gradient(left,
+    red, orange, yellow, green, blue, indigo, violet,
+    indigo, blue, green, yellow, orange,
+    red, orange, yellow, green, blue, indigo, violet,
+    indigo, blue, green, yellow, orange,
+    red)
+  animation omg 2.5s forwards linear infinite
+  background-size 200% auto
+
+@keyframes omg
+  from
+    background-position top left
+  to
+    background-position top right
+
+.brown
+  background #453015
+  color #fff
+  text-shadow 0 0 20px #222
+
+.title
+  img
+    height 300px
+    margin-left 9px
+  h1
+    margin 0
+  h2
+    margin-bottom 1em
+    font-size 1.5em
+
+.footer
+  position absolute
+  bottom 12px
+  left 20px
+  opacity 0.5
+
+.small
+  font-size 85%
+
+.smaller
+  font-size 70%
