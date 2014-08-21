@@ -167,7 +167,7 @@ class: orange
 ]]
 --
 .smaller[.smaller[
-* The tasks and file API is synchronous, reducing the barrier to entry
+* The tasks and file API is synchronous, reducing barrier to entry
 ]]
 --
 .smaller[.smaller[
