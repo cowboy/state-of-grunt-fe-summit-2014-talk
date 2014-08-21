@@ -237,67 +237,67 @@ class: orange
 ]]
 
 ---
-class: center, middle, orange
+class: center, middle, brown
 .footer[The State of Grunt]
 
 # Future Grunt
 
 ---
-class: center, middle, orange
+class: center, middle, brown
 .footer[The State of Grunt - Future Grunt]
 
 ## First, please note that these are our _goals_. Nothing is set in stone.
 
 ---
-class: center, middle, brown
+class: center, middle, orange
 .footer[The State of Grunt - Future Grunt]
 
 # The Grunt codebase is already being rewritten to be more modular and maintainable.
 
 ---
-class: center, middle, orange
+class: center, middle, brown
 .footer[The State of Grunt - Future Grunt]
 
 # Grunt will focus on running tasks and being easy to configure and learn.
 
 ---
-class: center, middle, brown
+class: center, middle, orange
 .footer[The State of Grunt - Future Grunt]
 
 # Grunt will support existing 0.4.x plugins via _optional_ adapter, and will also support Gulp and Broccoli plugins.
 
 ---
-class: center, middle, orange
+class: center, middle, brown
 .footer[The State of Grunt - Future Grunt]
 
 # Grunt tasks will support both stream-based and promise-based input/output.
 
 ---
-class: center, middle, brown
+class: center, middle, orange
 .footer[The State of Grunt - Future Grunt]
 
 # Grunt will support tasks and &ldquo;pipelines&rdquo; that can be run in series or parallel.
 
 ---
-class: center, middle, orange
+class: center, middle, brown
 .footer[The State of Grunt - Future Grunt]
 
 # All Grunt task running and file I/O will be asynchronous. _(under the hood)_
 
 ---
-class: center, middle, brown
+class: center, middle, orange
 .footer[The State of Grunt - Future Grunt]
 
 # Grunt logging will offer redirectable, per-task streams.
 
 ---
-class: center, middle, orange
+class: center, middle, brown
 .footer[The State of Grunt - Future Grunt]
 
 # Error handling and reporting in Grunt will be improved.
 
 ---
-class: center, middle, brown
+class: center, middle, orange
 .footer[The State of Grunt - Future Grunt]
 
 # Watching files for changes will be built-in to Grunt.
@@ -339,7 +339,7 @@ class:
 ### Gulp - _&ldquo;The streaming build system&rdquo;_
 ### Broccoli - _&ldquo;Fast client-side asset builder&rdquo;_
 
-> They're actually all good options. As long as you're using SOMETHING, you're ahead of the game.
+> They're actually all good options. As long as you're using SOMETHING, you're ahead of the game!
 
 ---
 class: orange
@@ -353,7 +353,7 @@ class: orange
 ]
 --
 .smaller[
-* Before deciding on Grunt vs Gulp vs Brocolli vs something else in your project, think about your needs and experiment
+* Before deciding on Grunt vs Gulp vs Broccoli vs something else in your project, think about your needs and experiment
 ]
 --
 .smaller[
